@@ -1,0 +1,83 @@
+/*******************************Tag Selector***********************************/
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-size: 5.62rem;
+  color: #66BFBF;
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+.topclass{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 2;
+}
+.mountain_image{
+  position: relative;
+  left: 30px;
+}
+.middle-container{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+}
+.skill-image{
+  width: 25%;
+  float: left;
+}
+.center{
+  margin: auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.text{
+  font-weight: 900;
+}
+.Button{
+  border: none;
+  background-color: #66BFBF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 1px 1px 20px 0 #000000;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 90px auto 90px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 150px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.footer-link2{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/*********************************Class Selector*******************************/
